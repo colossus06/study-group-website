@@ -1,8 +1,8 @@
 
 <p align="center">
-    <a href="rampup.md">CKAD Ramp Up Guide</a>🐍
+    <a href="./rampup.md">CKAD Ramp Up Guide</a>🐍
     &nbsp;&nbsp;&nbsp;
-    <a href="projects.md">Projects</a>🦔
+    <a href="./projects.md">Projects</a>🦔
     &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/colossus06/cka-ckad-study-group-2024">Repo 📖</a>
 </p>
