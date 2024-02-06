@@ -11,12 +11,4 @@ Useful Links for the study group members
     * [CKA - Storage 4 Exam Scenarios](https://killercoda.com/kuberada/scenario/cka-4-questions)
 
 
-## Contribution
-
-Currently we have 3 contributors that helps with the exam scenarios, additional features, CICD and documentation.
-
-Your contributions are welcomed. All you need to do is to create an issue!
-
-
-<a href="https://BorealBlizzard.github.io/page1.html/">Page 2</a>
 
