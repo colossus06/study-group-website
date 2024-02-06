@@ -1,4 +1,4 @@
-[CKAD Ramp Up Guide](#rampup)🐍 [Projects](#projects)🦔 [Repo 📖](https://github.com/colossus06/cka-ckad-study-group-2024)
+[CKAD Ramp Up Guide](#rampup)🐍 [Projects](#projects)🦔 [Repo 📖](https://github.com/colossus06/cka-ckad-study-group-2024) 
 
 
 # 📘 Study Resources
@@ -94,10 +94,10 @@ Utilize persistent and ephemeral volumes
 ### Suggested Lab environments and resources
 
 This guide uses the following free resources to practice daily and put the kubernetes skills to muscle memory:
-[O'Reilly](https://www.oreilly.com/)
-[KillerCoda](https://killercoda.com/)
-[Official Docs](https://kubernetes.io/)
-[Cka-ckad-study-group-2024 repo](https://github.com/colossus06/cka-ckad-study-group-2024)
+* [O'Reilly](https://www.oreilly.com/)
+* [KillerCoda](https://killercoda.com/)
+* [Official Docs](https://kubernetes.io/)
+* [Cka-ckad-study-group-2024 repo](https://github.com/colossus06/cka-ckad-study-group-2024)
 
 Create an O'Reilly and KillerCoda account, and use them interchangeably.
 
