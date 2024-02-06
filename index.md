@@ -7,17 +7,16 @@
     <a href="https://github.com/colossus06/cka-ckad-study-group-2024">Repo 📖</a>
 </p>
 
-
 # 📘 Study Resources
 
 ## CKAD Ramp Up Guide 🟡
-- [CKAD Ramp Up Guide](rampup.md) - A comprehensive guide to help you prepare for the Certified Kubernetes Application Developer (CKAD) exam.
+- <a href="rampup.md">CKAD Ramp Up Guide</a> - A comprehensive guide to help you prepare for the Certified Kubernetes Application Developer (CKAD) exam.
 
 ## K8s Github Repo 🟠🟢
 - [K8s Github Repo](https://github.com/colossus06/cka-ckad-study-group-2024/) - Explore our community-driven repository containing Kubernetes clusters, new features, and useful resources for your CKA and CKAD journey.
 
 ## Projects 🟣🟢
-- [Projects](projects.md) - Dive into our curated projects to enhance your practical Kubernetes skills and prepare for real-world scenarios.
+- <a href="projects.md">Projects</a> - Dive into our curated projects to enhance your practical Kubernetes skills and prepare for real-world scenarios.
 
 ## 🚀 Study-group-website!
 
