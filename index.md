@@ -1,6 +1,6 @@
 
 <p align="center">
-    <a href="./rampup.md">CKAD Ramp Up Guide</a>🐍
+    <a href="./rampup.html">CKAD Ramp Up Guide</a>🐍
     &nbsp;&nbsp;&nbsp;
     <a href="./projects.md">Projects</a>🦔
     &nbsp;&nbsp;&nbsp;
